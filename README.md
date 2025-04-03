@@ -1,5 +1,5 @@
 PS4 Payload SDK
-=================
+==================
 An open source SDK for writing payloads for the PlayStation 4
 
 ## Chain of Development
